@@ -1,0 +1,3 @@
+[submodule "pipeliner"]
+	path = pipeliner
+	url = https://sourcecode.socialcoding.bosch.com/scm/~fui1cob/pipeliner.git
